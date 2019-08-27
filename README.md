@@ -1,7 +1,8 @@
 # ProyectoCompiladores
 
 Lo primero que debe realizarse en el proyecto es cargar el archivo .flex que generará la
-clase .java con el analizador léxico. Luego se debe seleccionar el archivo .txt que se
+clase .java con el analizador léxico (El archivo se encuentra dentro del proyecto, en la 
+carpeta src). Luego se debe seleccionar el archivo .txt que se
 quiere analizar. Después de analizar dicho archivo la aplicación preguntará la ubicación
 donde se quiere guardar el archivo .out con los resultados del analisis.
 
